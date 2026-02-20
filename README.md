@@ -5,7 +5,7 @@ I'm Pasha, passionate about data analytics and engineering.
 
 Feel free to explore my projects below :)
 
-## Telecom Customer Churn Prediction
+## [Telecom Customer Churn Prediction](https://github.com/git-zxrcodev/telecom-customer-churn-prediction)
 **Description:** An end-to-end machine learning project that identifies customers at risk of churning for a telecommunications company. The project covers data ingestion, exploratory data analysis, feature engineering, and training four classifiers — with actionable retention recommendations grounded in the data.
 **Key Highlights:**
 - Conducted EDA on 7K telecom customers (26% churn); uncovered M2M contracts & early tenure as top drivers, enabling targeted retention spend.
