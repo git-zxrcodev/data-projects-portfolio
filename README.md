@@ -1,6 +1,10 @@
 # Data Projects Portfolio
 
-# Welcome to my portfolio!
+Welcome to my GitHub portfolio!
+I'm Pasha, and I'm glad you're here.
+
+Feel free to explore my projects below :)
+
 
 
 ## CONTACTS
