@@ -1,6 +1,7 @@
 # Portfolio
 
 Welcome to my GitHub portfolio!
+
 I'm Pasha, passionate about data analytics and engineering.
 
 Feel free to explore my projects below :)
