@@ -5,12 +5,12 @@ I'm Pasha, passionate about data analytics and engineering.
 
 Feel free to explore my projects below :)
 
-## Project 1 | Project Name
-**Description:** A brief, 1–2 line summary of the project.  
+## Telecom Customer Churn Prediction
+**Description:** An end-to-end machine learning project that identifies customers at risk of churning for a telecommunications company. The project covers data ingestion, exploratory data analysis, feature engineering, and training four classifiers — with actionable retention recommendations grounded in the data.
 **Key Highlights:**
-- Point 1
-- Point 2
-- Point 3
+- Engineered features, preprocessed customer data, and performed EDA, generating actionable prescribing insights. 
+- Built machine learning churn predicting models achieving ROC-AUC of 0.84 to automatically identify high-risk customers.
+- Developed an interactive Power BI dashboard to identify high-risk customers and visualize key churn drivers. 
 
 ## Project 2 | Project Name
 **Description:** A brief, 1–2 line summary of the project.  
