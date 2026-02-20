@@ -1,1 +1,3 @@
-# data-analytics-portfolio
+# Data Projects Portfolio
+
+# Welcome to my portfolio!
