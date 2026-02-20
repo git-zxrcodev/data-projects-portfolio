@@ -5,5 +5,5 @@
 
 ## CONTACTS
 
-[LinkedIn](https://www.linkedin.com/in/pavlo-popovych/)
-[E-mail](popovych.v.pavlo@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/pavlo-popovych/)
+- [E-mail](popovych.v.pavlo@outlook.com)
