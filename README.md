@@ -1,29 +1,32 @@
-# Data Projects Portfolio
+# Portfolio
 
 Welcome to my GitHub portfolio!
-I'm Pasha, and I'm glad you're here.
+I'm Pasha, passionate about data analytics and engineering.
 
 Feel free to explore my projects below :)
 
-## Project 1
-description description description description description description description description description description
-- Point1
-- Point2
-- Point3
+## Project 1 — Project Name
+**Description:** A brief, 1–2 line summary of the project.  
+**Key Highlights:**
+- Point 1
+- Point 2
+- Point 3
 
-## Project 2
-description description description description description description description description description description
-- Point1
-- Point2
-- Point3
+## Project 2 — Project Name
+**Description:** A brief, 1–2 line summary of the project.  
+**Key Highlights:**
+- Point 1
+- Point 2
+- Point 3
 
-## Project 3
-description description description description description description description description description description
-- Point1
-- Point2
-- Point3
+## Project 3 — Project Name
+**Description:** A brief, 1–2 line summary of the project.  
+**Key Highlights:**
+- Point 1
+- Point 2
+- Point 3
 
 ## Contacts
 
 - [LinkedIn](https://www.linkedin.com/in/pavlo-popovych/)
-- [E-mail](popovych.v.pavlo@outlook.com)
+- [Email](popovych.v.pavlo@outlook.com)
